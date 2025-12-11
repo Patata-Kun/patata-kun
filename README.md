@@ -1,4 +1,4 @@
-## Hi!
+### Hi!
 
 I'm Jeremías, a web development student based in Uruguay.
 He/Him.
