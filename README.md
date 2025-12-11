@@ -1,15 +1,31 @@
 ## Hi!
 
-I'm Jeremías, a web development student based in Uruguay; he/him.
+I'm Jeremías, a web development student based in Uruguay.
+He/Him.
 
-I love to imagine and bring ideas to life, especially the design and CSS part.
-My main tech stack is CSS, JavaScript and HTML. My favourite tools are Notion, Affinity and Figma.
+I love to imagine and bring ideas to life, especially the design and CSS part. I love frontend.  
+
+---
+
+### Tech and tools
+- CSS, JavaScript, HTML.
+- Notion, Affinity, Figma.
+
+---
 
 ### Hobbies
 - Learn CSS.
 - Watch YouTube.
 - Play paino.
-- Being a perfectionist.
+
+<br>
+
+> [!WARNING]
+> High levels of perfectionism.
+
+<br>
+
+
 
 ![That's all - Miranda Priestley](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJhdzV6NDg0ZnZ4aGp0eHc4YXBqdDZ3OTBvcnA4eG1wbGJudzhyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6gDY8zzwvNQdFCaQ/giphy.gif)
 
