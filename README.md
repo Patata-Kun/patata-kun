@@ -17,6 +17,7 @@ I love to imagine and bring ideas to life, especially the design and CSS part. I
 - Learn CSS.
 - Watch YouTube.
 - Play paino.
+- Listen to music.
 
 <br>
 
