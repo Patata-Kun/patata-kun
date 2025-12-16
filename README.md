@@ -18,7 +18,7 @@ I'm still a newbie so have some compassion :3
 ### Hobbies
 - Learn CSS.
 - Watch YouTube.
-- Play paino.
+- Play piano.
 - Listen to music.
 
 <br>
