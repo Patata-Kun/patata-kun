@@ -5,6 +5,8 @@ He/Him.
 
 I love to imagine and bring ideas to life, especially the design and CSS part. I love frontend.  
 
+I'm still a newbie so have some compassion :3
+
 ---
 
 ### Tech and tools
